@@ -12,9 +12,9 @@ public class BookList {
 	public static void main(String[] args) 
 	{
 		List<Book>l1=new ArrayList<>();
-		Book b1=new Book(500,"Data structure","Suman Wadhwa...");
-		Book b2=new Book(600,"Computer","Sushil Goel...");
-		Book b3=new Book(800,"Java","Sushil goel...");
+		Book b1=new Book(400,"Data structure","Vishal singh...");
+		Book b2=new Book(600,"Computer","Vishal Singh...");
+		Book b3=new Book(800,"Java","Vishal Singh...");
 		l1.add(b1);
 		l1.add(b2);
 		l1.add(b3);
@@ -26,9 +26,9 @@ public class BookList {
 		}
 
 		List<Book>l2=new ArrayList<>();
-		Book bb1=new Book(550,"English","William Shakespeare...");
-		Book bb2=new Book(650,"Data Structure-2","Sushil Goel...");
-		Book bb3=new Book(950,"Software Engineering","HerBert Schildt...");
+		Book bb1=new Book(550,"English","Ritual Khare...");
+		Book bb2=new Book(650,"Data Structure-2","Vishal Singh...");
+		Book bb3=new Book(950,"Software Engineering","HerBert Kumar...");
 		l2.add(bb1);
 		l2.add(bb2);
 		l2.add(bb3);
