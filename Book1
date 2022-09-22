@@ -1,6 +1,5 @@
 //Author name : vishal singh
-/*
- * Create a class Book with 3 private data members:
+// Create a class Book with 3 private data members:
 -bid
 -subject
 -author
